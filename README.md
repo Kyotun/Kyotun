@@ -1,17 +1,17 @@
-### Hello there 👀, I'm Emir Pisirici
+### Hello there 👀, I'm Emir
 
 #### A curious jr. ML Engineer
 
-- 🔭 I’m currently working on: Building a traffic system using C++.
-- 🌱 I’m currently learning: Python fundamentals&libraries to enhance my python skills for ML.
+- 🔭 Working on: Building a traffic system using C++.
+- 🌱 Learning: Python fundamentals&libraries to enhance my python skills for ML.
 
 <br/>
 
 
 <table>
     <tr>
-        <th>My Blog</th>
-        <th>My CV</th>
+        <th>Blog</th>
+        <th>CV</th>
     </tr>
     <tr>
         <td>
@@ -25,6 +25,6 @@
 
 
 
-### Contact me:
+### Contact:
 
 <a href="https://www.linkedin.com/in/emirpisirici/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
