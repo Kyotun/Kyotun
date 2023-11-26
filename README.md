@@ -18,7 +18,7 @@
             <a href="https://medium.com/@emirpsrc"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
         </td>
         <td>
-            <a href="https://drive.google.com/file/d/1HJ-8SWCa5FJKDpr4ut2A16ghy5wg_0Fg/view?usp=sharing">📃</a>
+            <a href="https://drive.google.com/file/d/1QzJ8qrn7rgueRS6s7YqfI4dhQLSPvwzC/view?usp=sharing">📃</a>
         </td>
     </tr>
 </table>
