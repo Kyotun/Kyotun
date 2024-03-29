@@ -2,8 +2,8 @@
 
 #### A curious jr. ML Engineer
 
-- 🔭 Working on: Building a traffic system using C++.
-- 🌱 Learning: Python fundamentals&libraries to enhance my python skills for ML.
+- 🔭 Working on: Solving different cases with Python to test&build my skills in ML.
+- 🌱 Learning: Python fundamentals to enhance my python skills for ML.
 
 <br/>
 
