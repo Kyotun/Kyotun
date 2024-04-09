@@ -2,8 +2,8 @@
 
 #### A curious jr. ML Engineer
 
-- 🔭 Working on: Solving different cases with Python to test&build my skills in ML.
-- 🌱 Learning: Python fundamentals to enhance my python skills for ML.
+- 🔭 Working on: My own portfolio website.
+- 🌱 Learning: HTML-CSS-JS fundamentals & basics.
 
 <br/>
 
