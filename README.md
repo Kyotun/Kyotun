@@ -1,4 +1,4 @@
-### Hello there 👀, I'm Emir
+### Hi, I'm Kyotun
 
 #### A curious jr. ML Engineer
 
