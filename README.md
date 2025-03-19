@@ -8,7 +8,6 @@
 <table>
     <tr>
         <th>Blog</th>
-        <th>CV</th>
     </tr>
     <tr>
         <td>
