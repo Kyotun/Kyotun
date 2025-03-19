@@ -1,12 +1,9 @@
 ### Hi, I'm Kyotun
 
-#### A curious jr. ML Engineer
-
-- 🔭 Working on: My own portfolio website.
-- 🌱 Learning: HTML-CSS-JS fundamentals & basics.
+- 🔭 Working on: Web App
+- 🌱 Learning: FastAPI, React
 
 <br/>
-
 
 <table>
     <tr>
